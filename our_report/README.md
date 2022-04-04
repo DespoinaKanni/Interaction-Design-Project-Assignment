@@ -2,7 +2,7 @@
 
 ### First and Last Name: Δέσποινα Καννή Ρεμπούλη, Φώτης Τσιαμπάς
 ### University Registration Number: dpsd17042, dpsd17111
-### GitHub Personal Profile: https://github.com/DespoinaKanni
+### GitHub Personal Profile: https://github.com/DespoinaKanni https://github.com/fotistsiampas
 
 # Introduction
 
