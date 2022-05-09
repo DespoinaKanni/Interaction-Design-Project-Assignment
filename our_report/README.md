@@ -1,3 +1,4 @@
+
 # Lesson: Interaction Design
 
 ### First and Last Name: Δέσποινα Καννή Ρεμπούλη, Φώτης Τσιαμπάς
@@ -66,6 +67,7 @@ DIFFERENCES:
 
 
 # 2nd Deliverable
+![interaction](https://user-images.githubusercontent.com/100956507/167401673-605bc15e-9dfc-4ce1-ad40-efacd40ea6d2.jpg)
 
 User Interaction - Περιγραφή της δραστηριότητας: 
 
