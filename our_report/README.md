@@ -80,12 +80,12 @@
 
 # 2nd Deliverable
 
-Information architecture
+## Information architecture
 
-![interaction](https://user-images.githubusercontent.com/100956507/167401673-605bc15e-9dfc-4ce1-ad40-efacd40ea6d2.jpg)
+![διαδραστικη αρχιτεκτονικη](https://user-images.githubusercontent.com/100956507/172943975-334bb3b4-294b-40c1-b2b6-16ff23da16c7.jpg)
 
 
-![Untitled](https://user-images.githubusercontent.com/100956507/167413233-0f8b3f28-aebd-46b9-baea-3568c3209e8f.jpg)
+![αρχιτεκτονικη 2](https://user-images.githubusercontent.com/100956507/172944117-e1282626-8ebd-4ceb-aa97-4b6ca04cce58.jpg)
 
 
 
