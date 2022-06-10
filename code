@@ -1,1 +1,61 @@
+int sensorPressure = 1;
+
+
+int bargraphLED[4] = {13,12,11,10};
+
+
+void setup()
+{
+  int x;
+
+
+  pinMode(sensorPressure, INPUT);
+
+
+  for (x = 0; x <= 3; x++)
+  {
+    pinMode(bargraphLED[x], OUTPUT);
+  
+
+  }
+
+
+  Serial.begin(9600);
+}
+
+void loop()
+{
+  int sensorValue;
+
+
+  sensorValue = analogRead(sensorPressure);
+  sensorValue = constrain(map(sensorValue,0,1023,2000, 0), 0, 2000);
+  
+  Serial.print("sensor value: ");
+  Serial.println(sensorValue);
+
+
+  barGraph(sensorValue);
+}
+
+
+void barGraph(int value)
+{
+
+
+  int x;
+
+
+  for (x=1; x <= 4; x++)
+  {
+    if (value > (x*400) )
+    {
+      digitalWrite(bargraphLED[x-1],HIGH);
+    }
+    else
+    {
+      digitalWrite(bargraphLED[x-1],LOW);
+    }    
+  }
+}
 
